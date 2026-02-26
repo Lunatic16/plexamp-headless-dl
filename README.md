@@ -1,6 +1,6 @@
 # plexamp-versions.sh
 
-A Bash utility for discovering and downloading [Plexamp Headless](https://plexamp.plex.tv/headless/) releases for Linux. It queries the official Plex API for the current latest version, then performs a parallel scan across a configurable version range to surface all available archived builds — outputting results to both the terminal and a local text file.
+A Bash utility for discovering and downloading [Plexamp Headless](https://www.plex.tv/plexamp/) releases for Linux. It queries the official Plex API for the current latest version, then performs a parallel scan across a configurable version range to surface all available archived builds — outputting results to both the terminal and a local text file.
 
 ---
 
