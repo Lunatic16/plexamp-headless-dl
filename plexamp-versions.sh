@@ -150,7 +150,7 @@ print_header() {
 # 8. Print a single result row
 # =============================================================================
 print_row() {
-    local ver="$1" arch="$2" url="$3" tag="$4"
+    local ver="$1" arch="$2" tag="$3" url="$4"
     local colour="$DIM"
     [[ "$tag" == "OFFICIAL LATEST" ]] && colour="$GREEN"
 
